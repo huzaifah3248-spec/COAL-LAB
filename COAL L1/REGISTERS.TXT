@@ -1,0 +1,4 @@
+Ax = ACCUMULATOR
+Bx = BASE
+Cx = COUNTER
+Dx = DATA
